@@ -1,4 +1,4 @@
-# 📖 **Random Quote Generator**   
+# 📖 **Random Quotes Generator**   
   
 A simple and interactive Random Quote Generator that displays motivational, inspiring, or thought-provoking quotes at the click of a button. Perfect for daily positivity and encouragement.  
   
